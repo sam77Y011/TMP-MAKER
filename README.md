@@ -1,5 +1,4 @@
  # TMPFS Maker ![distorted face](https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/128px/1faea.png)
-A simple TMPFS maker tool.
 ---
 This was originally a tiny personal tool I wrote for myself, and then I thought: why not share it.
 That’s it, really.
