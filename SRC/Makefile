@@ -6,7 +6,6 @@ OBJS := $(SRCS:.cpp=.o)
 
 CXXFLAGS := -std=c++20 -O2 -Wall -Wextra
 
-# لینک استاتیک کامل
 LDFLAGS := -static \
            -static-libgcc \
            -static-libstdc++ \
